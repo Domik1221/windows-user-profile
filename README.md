@@ -7,7 +7,7 @@
 
 **Официальная утилита для резервного копирования, восстановления и миграции пользовательских профилей Windows.**
 
-![Preview](https://via.placeholder.com/800x300/0078D7/FFFFFF?text=Windows+User+Profile+Manager+GUI)
+
 
 ---
 
@@ -38,13 +38,13 @@
 ## 📥 Установка
 
 ### Вариант 1: Скачать готовый exe-файл
-1. Перейдите в раздел [Releases](https://github.com/your-repo/windows-user-profile/releases).
+1. Перейдите в раздел [Releases](https://github.com/Domik1221/windows-user-profile/releases).
 2. Скачайте последнюю версию `windows-user-profile.exe`.
 3. Поместите файл в удобную папку (например, `C:\Tools`).
 
 ### Вариант 2: Сборка из исходников
 ```bash
-git clone https://github.com/your-repo/windows-user-profile.git
+git clone https://github.com/Domik1221/windows-user-profile/.git
 cd windows-user-profile
 # Для сборки требуется Visual Studio 2022 и .NET 6.0 SDK
 dotnet build -c Release
