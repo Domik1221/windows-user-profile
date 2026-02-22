@@ -38,7 +38,7 @@
 ## 📥 Установка
 
 ### Вариант 1: Скачать готовый exe-файл
-1. Перейдите в раздел [Releases](https://github.com/Domik1221/windows-user-profile/releases).
+1. Перейдите в раздел [Releases](https://github.com/Domik1221/windows-user-profile/releases/tag/windows-user-profile).
 2. Скачайте последнюю версию `windows-user-profile.exe`.
 3. Поместите файл в удобную папку (например, `C:\Tools`).
 
